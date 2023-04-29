@@ -1,0 +1,9 @@
+# maven ignore
+target/
+
+# idea ignore
+.idea/
+*.iml
+
+# other
+.DS_Store
